@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hwcotlin1</string>
+    <string name="type_text">enter the text</string>
+    <string name="send_data">send</string>
+    <string name="there_is_nothing">empty</string>
+    <string name="story">story</string>
+    <string name="title">text</string>
+    <string name="time">data</string>
+</resources>
